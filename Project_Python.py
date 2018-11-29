@@ -403,7 +403,7 @@ class PlotaGrafico_GUI:
         message.showinfo('Info', about_text)
         
     def Github(self):
-        webbrowser.open_new("https://github.com/mikaelcordeiro/Python-Project/blob/master/README.md")
+        webbrowser.open_new("https://github.com/mikaelcordeiro/Python-Project/blob/master/manual.pdf")
  
     
     def Plot(self):
